@@ -2,7 +2,6 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
 		"ghcr.io/devcontainers/features/desktop-lite:1": {},
-		"ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {},
-		"ghcr.io/jarrodcolburn/features/android-sdk:0": {}
+		"ghcr.io/devcontainers-contrib/features/apt-get-packages:1": {}
 	}
 }
